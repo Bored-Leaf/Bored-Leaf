@@ -8,6 +8,4 @@
   - * What the project showcases *
   - *etc.*
 
-Uni Projects
-
-Personal Projects
+# Projects
