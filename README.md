@@ -1,16 +1,13 @@
-## Hi there 👋
+# Portfolio
 
-<!--
-**Bored-Leaf/Bored-Leaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**FOR EACH PROJECT MAKE SURE TO PUT STUFF IN THE README.TXT, STUFF LIKE:** 
+  - Goal/Purpurse of project*
+  - *Features*
+  - *Tech Stack*
+    - *I implemented X using framework Y because.*
+  - * What the project showcases *
+  - *etc.*
 
-Here are some ideas to get you started:
+Uni Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Personal Projects
