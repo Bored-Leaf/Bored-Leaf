@@ -11,3 +11,9 @@
 -->
 
 ## Projects
+<!-- Ideas:
+        - One with OpenGL/Vulkan where you type and a 3d version of it is on the screen
+            as you type (Maybe only takes a couple seconds worth of text?). Camera also
+            moves around smoothly (Maybe more erratically the faster you type?). Maybe 
+            instead of flat objects, use particles and trails to fill in the space?
+-->
