@@ -16,4 +16,5 @@
             as you type (Maybe only takes a couple seconds worth of text?). Camera also
             moves around smoothly (Maybe more erratically the faster you type?). Maybe 
             instead of flat objects, use particles and trails to fill in the space?
+        - One that will serve as the github pages webpage to host my portfolio projects.
 -->
