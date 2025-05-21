@@ -17,4 +17,9 @@
             moves around smoothly (Maybe more erratically the faster you type?). Maybe 
             instead of flat objects, use particles and trails to fill in the space?
         - One that will serve as the github pages webpage to host my portfolio projects.
+
+    Should do: If my skills improved and is warrented/beneficial enough, recreate previous
+      from the ground up and provide links and a quick (no more than a sentance) of what
+      the previous versions are about. Also include what is new/different/improved about
+      the current up to date version.
 -->
