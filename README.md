@@ -1,5 +1,18 @@
-# Portfolio
-This is my portfolio of my projects
+Hello. I'm a software developer building a custom game engine
+
+# Interests
+- Systems programming
+- OS development (Eventually)
+- Graphics APIs
+- Game Engines
+
+# [Uni based projects](https://github.com/Bored-Leaf/Uni-Projects)
+A repo containing projects and assignments I made in uni
+
+# Personal Projects
+- [Bored-Leaf-Engine]() - Modular engine with performance, modularity and robustness as core design goals. Using C++, SDL3, OpenGL (Eventually Vulkan), and FMOD.
+- [Data Structure Simulations]() - Personal learning mini-projects creating data structures in C++.
+
 <!--
 **FOR EACH PROJECT MAKE SURE TO PUT STUFF IN THE README.TXT, STUFF LIKE:** 
   - Goal/Purpurse of project*
@@ -10,15 +23,12 @@ This is my portfolio of my projects
   - *etc.*
 -->
 
-# Projects
-## Game Engine
-
 <!-- Ideas:
         - One with OpenGL/Vulkan where you type and a 3d version of it is on the screen
             as you type (Maybe only takes a couple seconds worth of text?). Camera also
             moves around smoothly (Maybe more erratically the faster you type?). Maybe 
             instead of flat objects, use particles and trails to fill in the space?
-        - A website that will also serve as the github pages webpage to host my portfolio projects.
+        - A website that will also serve as the github pages webpage to host my personal portfolio projects.
 
     Should do: If my skills improved and is warrented/beneficial enough, recreate previous
       from the ground up and provide links and a quick (no more than a couple sentances) of what
