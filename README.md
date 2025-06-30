@@ -11,6 +11,13 @@ A repo containing projects and assignments I made in uni
 
 # Personal Projects
 - [Bored-Leaf-Engine]() - Modular engine with performance, modularity and robustness as core design goals. Using C++, SDL3, OpenGL (Eventually Vulkan), and FMOD.
+<!--
+Update linkedIn and Github to mention the systems I've built.
+For example:
+  - Built modular systems for rendering, input and audio.
+  - Implemented custom memory management and job system.
+  - Handled low-latency resource streaming and profiling.
+-->
 - [Data Structure Simulations]() - Personal learning mini-projects creating data structures in C++.
 
 <!--
