@@ -10,7 +10,7 @@ Hello. I'm a software developer building a custom game engine
 A repo containing projects and assignments I made in uni
 
 # Personal Projects
-- [Bored-Leaf-Engine]() - Modular engine with performance, modularity and robustness as core design goals. Using C++, SDL3, OpenGL (Eventually Vulkan), and FMOD.
+- [Bored-Leaf-Engine]() - Modular 2D game engine with performance, modularity and robustness as core design goals. Using C++, SDL3, OpenGL (Eventually Vulkan), and FMOD.
 <!--
 Update linkedIn and Github to mention the systems I've built.
 For example:
