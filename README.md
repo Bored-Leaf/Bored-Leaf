@@ -17,10 +17,7 @@ For example:
   - Built modular systems for rendering, input and audio.
   - Implemented custom memory management and job system.
   - Handled low-latency resource streaming and profiling.
--->
-- [Data Structure Simulations]() - Personal learning mini-projects creating data structures in C++.
 
-<!--
 **FOR EACH PROJECT MAKE SURE TO PUT STUFF IN THE README.TXT, STUFF LIKE:** 
   - Goal/Purpurse of project*
   - *Features*
@@ -28,14 +25,23 @@ For example:
     - *I implemented X using framework Y because.*
   - * What the project showcases *
   - *etc.*
+
 -->
+- [Data Structure Simulations]() - Personal learning mini-projects creating data structures in C++.
 
 <!-- Ideas:
-        - One with OpenGL/Vulkan where you type and a 3d version of it is on the screen
-            as you type (Maybe only takes a couple seconds worth of text?). Camera also
-            moves around smoothly (Maybe more erratically the faster you type?). Maybe 
-            instead of flat objects, use particles and trails to fill in the space?
         - A website that will also serve as the github pages webpage to host my personal portfolio projects.
+
+        Graphics based:
+          - One with OpenGL/Vulkan where you type and a 3d version of it is on the screen
+              as you type (Maybe only takes a couple seconds worth of text?). Camera also
+              moves around smoothly (Maybe more erratically the faster you type?). Maybe 
+              instead of flat objects, use particles and trails to fill in the space?
+
+        Simulation based:
+          - Engine simulation including sound, RPM, oil pressure, fuel usage ,etc.
+            
+        
 
     Should do: If my skills improved and is warrented/beneficial enough, recreate previous
       from the ground up and provide links and a quick (no more than a couple sentances) of what
