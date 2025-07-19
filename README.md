@@ -39,7 +39,8 @@ For example:
               instead of flat objects, use particles and trails to fill in the space?
 
         Simulation based:
-          - Engine simulation including sound, RPM, oil pressure, fuel usage ,etc.
+          - Maybe simulation engine?
+          - Engine simulation including sound, RPM, speed, oil pressure, fuel usage ,etc.
             
         
 
