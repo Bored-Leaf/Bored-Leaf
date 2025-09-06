@@ -9,8 +9,6 @@ Hello. I'm a software developer building a custom game engine
 # [Uni based projects](https://github.com/Bored-Leaf/Uni-Projects)
 A repo containing projects and assignments I made in uni
 
-# Personal Projects
-- [Bored-Leaf-Engine]() - Modular 2D game engine with performance, modularity and robustness as core design goals. Using C++, SDL3, OpenGL (Eventually Vulkan), and FMOD.
 <!--
 Update linkedIn and Github to mention the systems I've built.
 For example:
@@ -27,6 +25,10 @@ For example:
   - *etc.*
 
 -->
+
+# Personal Projects
+- [Bored-Leaf-Engine]() - Modular 2D game engine with performance, modularity and robustness as core design goals. Using C++, SDL3, OpenGL (Eventually Vulkan), and FMOD.
+
 - [Data Structure Simulations]() - Personal learning mini-projects creating data structures in C++.
 
 <!-- Ideas:
