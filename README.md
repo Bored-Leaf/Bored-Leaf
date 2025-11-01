@@ -27,18 +27,22 @@ For example:
 -->
 
 # Personal Projects
-- [Bored-Leaf-Engine]() - Modular 2D game engine with performance, modularity and robustness as core design goals. Using C++, SDL3, OpenGL (Eventually Vulkan), and FMOD.
+- [Bored-Leaf-Engine]() - Modular 3D game engine with performance, modularity and robustness as core design goals. Using C++, SDL3, OpenGL (Eventually Vulkan), and FMOD.
 
-- [Data Structure Simulations]() - Personal learning mini-projects creating data structures in C++.
+- [Data Structure Simulations]() - Personal learning mini-projects creating data structures in C/C++.
+
+# Current WIP Projects:
+- [Bored-Leaf-Engine]() - Always working on
+- Intrument playback Visualiser - `Displays the frequencies/spectrogram/sound wave displacement of a currently played instrument through an audio interface.
+
 
 <!-- Ideas:
         - A website that will also serve as the github pages webpage to host my personal portfolio projects.
 
         Graphics based:
-          - One with OpenGL/Vulkan where you type and a 3d version of it is on the screen
-              as you type (Maybe only takes a couple seconds worth of text?). Camera also
-              moves around smoothly (Maybe more erratically the faster you type?). Maybe 
-              instead of flat objects, use particles and trails to fill in the space?
+          - visualiser of instrument playback. Like for example displaying the 
+          frequencies/spectrogram/sound wave displacement of an instrument played through 
+          an audio interface
 
         Simulation based:
           - Maybe simulation engine?
