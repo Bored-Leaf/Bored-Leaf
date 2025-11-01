@@ -33,7 +33,7 @@ For example:
 
 # Current WIP Projects:
 - [Bored-Leaf-Engine]() - Always working on
-- Intrument playback Visualiser - `Displays the frequencies/spectrogram/sound wave displacement of a currently played instrument through an audio interface.
+- Intrument playback Visualiser - Displays the frequencies/spectrogram/sound wave displacement of a currently played instrument through an audio interface.
 
 
 <!-- Ideas:
