@@ -32,10 +32,12 @@ For example:
 - [Data Structure Simulations]() - Personal learning mini-projects creating data structures in C/C++.
 
 # Current WIP Projects:
-- [Bored-Leaf-Engine]() - Always working on
-- Intrument playback Visualiser - Displays the frequencies/spectrogram/sound wave displacement of a currently played instrument through an audio interface.
-
-
+## Big
+[Bored-Leaf-Engine]()
+## Medium
+[Intrument playback Visualiser]() - Displays the frequencies/spectrogram/sound wave displacement of a currently played instrument through an audio interface.
+### Small
+[Data Structure Simulations]()
 <!-- Ideas:
         - A website that will also serve as the github pages webpage to host my personal portfolio projects.
 
