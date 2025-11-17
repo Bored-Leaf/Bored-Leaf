@@ -31,7 +31,7 @@ For example:
 ### Big
 [Bored-Leaf-Engine]() - Modular 3D game engine with performance, modularity and robustness as core design goals. Using C++, SDL3, OpenGL (Eventually Vulkan), and FMOD
 ### Medium
-[Intrument playback Visualiser]() - Displays the frequencies/spectrogram/sound wave displacement of a currently played instrument through an audio interface.
+[Intrument playback Visualiser](https://github.com/Bored-Leaf/InstrumentAudioVisualiser) - Displays the frequencies/spectrogram/sound wave displacement of a WAV file or currently played instrument through an audio interface.
 ### Small
 [Data Structure Simulations]() - Personal learning mini-projects creating data structures in C/C++.
 <!-- Ideas:
