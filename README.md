@@ -44,7 +44,7 @@ For example:
 
         Simulation based:
           - Maybe simulation engine?
-          - Engine simulation including sound, RPM, speed, oil pressure, fuel usage ,etc.
+          - Engine simulation including sound, RPM, speed, oil pressure, fuel usage , air fuel ratio, fuel map, etc.
 
         Application that uses both .NET and C/C++
             
